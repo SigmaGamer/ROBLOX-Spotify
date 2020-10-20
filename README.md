@@ -1,7 +1,7 @@
 # ROBLOX Spotify
 A Lua script designed to fully wrap the Spotify console API from a GUI in ROBLOX.
 
-## Getting Started
+## Usage
 
 To start, You'll need to make sure your executor has the designated functions needed to run this script.
 Currently we only support Synapse X.
