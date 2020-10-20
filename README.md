@@ -1,7 +1,7 @@
+[![HitCount](http://hits.dwyl.com/SigmaGamer/ROBLOX-Spotify.svg)](http://hits.dwyl.com/SigmaGamer/ROBLOX-Spotify)
+
 # ROBLOX Spotify
 A Lua script designed to fully wrap the Spotify console API from a GUI in ROBLOX.
-
-[![HitCount](http://hits.dwyl.com/SigmaGamer/ROBLOX-Spotify.svg)](http://hits.dwyl.com/SigmaGamer/ROBLOX-Spotify)
 
 ## Usage
 
