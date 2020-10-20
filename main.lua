@@ -1,6 +1,6 @@
 --[[
 
-  Be sure to run the init.lua script, not this one.
+  Be sure to run the script linked on the README or the init.lua, not this one.
   
 ]]--
 
