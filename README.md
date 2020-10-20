@@ -13,3 +13,7 @@ getgenv().apikey = "Your API Key" -- Replace with your key
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SigmaGamer/ROBLOX-Spotify/main/main.lua"))()
 ```
+
+## Other Info
+
+This will most likely not be maintained other than small bug-fixes here and there.
