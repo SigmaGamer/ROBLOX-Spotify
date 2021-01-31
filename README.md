@@ -5,7 +5,10 @@ A Lua script designed to fully wrap the Spotify console API from a GUI in ROBLOX
 ## Usage
 
 You'll need to make sure your executor has the designated functions needed to run this script.
-Currently, it only support Synapse X.
+
+Currently, only [Synapse X](https://x.synapse.to) is supported.
+
+Follow the instructions below to obtain your Spotify API key. After that, Paste it into the script where the comment says
 
 ## API Key
 
@@ -15,6 +18,7 @@ Tick the boxes shown below, and press "Request Token"
 ![example](https://cdn.soren.cool/53f1c5a9-4922-4133-aba9-afdc61756517/fe9be7f.png)
 
 ## Script
+
 ```lua
 getgenv().apikey = "Your API Key" -- Replace with your key
 
