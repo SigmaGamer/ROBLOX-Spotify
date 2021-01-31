@@ -1,13 +1,20 @@
 # ROBLOX Spotify
+
 A Lua script designed to fully wrap the Spotify console API from a GUI in ROBLOX.
 
 ## Usage
 
-To start, You'll need to make sure your executor has the designated functions needed to run this script.
-Currently we only support Synapse X.
+You'll need to make sure your executor has the designated functions needed to run this script.
+Currently, it only support Synapse X.
 
-To get an API key, you'll need to go [here](https://developer.spotify.com/console/get-users-currently-playing-track/), click "Get Token", and tick every box
+## API Key
 
+To start, Click [this](https://developer.spotify.com/console/get-users-currently-playing-track) link and click "Get Token"
+Tick the boxes shown below, and press "Request Token"
+
+![example](https://cdn.soren.cool/53f1c5a9-4922-4133-aba9-afdc61756517/fe9be7f.png)
+
+## Script
 ```lua
 getgenv().apikey = "Your API Key" -- Replace with your key
 
